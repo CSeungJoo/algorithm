@@ -2,7 +2,7 @@ package codeup.backtracking;
 
 import java.util.Scanner;
 
-public class Main {
+public class _2653 {
     static int max;
     static int cnt = 0;
     static int[] arr;
@@ -32,7 +32,7 @@ public class Main {
         int[] arr = new int[n + 1];
 
         max = n;
-        Main.arr = arr;
+        _2653.arr = arr;
 
         backTracking(n);
         System.out.println(cnt);
