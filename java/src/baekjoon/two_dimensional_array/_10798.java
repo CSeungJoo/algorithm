@@ -1,3 +1,4 @@
+package baekjoon.two_dimensional_array;
 
 import java.util.Scanner;
 public class _10798 {
